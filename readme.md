@@ -2,7 +2,7 @@
 
 Bootstrap website for downloading E-book. This website has a light, business-like design.
 
-<img src="./images/Ebook-website.jpeg"  />
+<img src="./images/Ebook-website.jpeg"/>
 
 ## Features
 
